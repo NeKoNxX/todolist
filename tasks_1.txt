@@ -1,0 +1,2 @@
+play;pending;Medium
+diet;pending;low
